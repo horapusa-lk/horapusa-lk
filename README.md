@@ -15,7 +15,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=horapusa-lk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 <h3 align="left">Connect with me:</h3>
-
+<p align="left">
+    <a href="https://t.me/hora_pusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
