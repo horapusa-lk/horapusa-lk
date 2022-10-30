@@ -47,6 +47,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horapusa-lk&" alt="Induwaral" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horapusa-lk&" alt="horapusa-lk" /></p>
 
 
