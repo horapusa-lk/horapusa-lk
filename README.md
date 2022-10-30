@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Linux bash and C++.** - - 💬 Ask me about **Anything** - 📫 How to reach me **https:/t.me/hora_pusa**
+- 🌱 I’m currently learning **Linux bash and C++.
 - ⚡ Fun fact **World is in your hand.**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=horapusa-lk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
