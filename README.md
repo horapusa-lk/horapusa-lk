@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Linux bash and C++.
 - ⚡ Fun fact **World is in your hand.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=horapusa-lk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![horapusa-lk's GitHub stats](https://github-readme-stats.vercel.app/api?username=horapusa-lk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
