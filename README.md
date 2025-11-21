@@ -43,7 +43,7 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horapusa-lk&show_icons=true&locale=en&layout=compact" alt="Induwaraofficial" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
