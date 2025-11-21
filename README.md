@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Linux bash and C++.
 - ⚡ Fun fact **World is in your hand.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=horapusa-lk)](https://github.com/ryo-ma/github-profile-trophy )
+[![trophy](https://github-profile-trophy-exggf07vq-horapusas-projects.vercel.app//?username=horapusa-lk)](https://github.com/ryo-ma/github-profile-trophy )
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
