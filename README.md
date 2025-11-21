@@ -40,18 +40,7 @@
     <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
 </p>
 
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horapusa-lk&" alt="horapusa-lk" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horapusa-lk&show_icons=true&locale=en&layout=compact" alt="horapusa-lk" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horapusa-lk&" alt="horapusa-lk" /></p>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horapusa-lk&" alt="horapusa-lk" /></p>
 
 
