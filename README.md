@@ -43,7 +43,12 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horapusa-lk&show_icons=true&locale=en&layout=compact" alt="horapusa-lk" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horapusa-lk&" alt="horapusa-lk" /></p>
+
 
 
 
