@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Linux bash and C++.
+- 🌱 I’m currently learning **Go**.
 - ⚡ Fun fact **World is in your hand.**
 
 
